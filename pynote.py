@@ -3,7 +3,7 @@
 
 import simplenote
 
-user = simplenote.User('mail@vpetkov.com', 'sloniibaloni')
+user = simplenote.User('mail@vpetkov.com', 'pass')
 
 index = simplenote.Index(user)
 
